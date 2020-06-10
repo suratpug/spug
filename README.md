@@ -3,3 +3,5 @@
 - you can use VS Code or your choice of text editor or IDE
 - use meetup site to post any questions or leave a feedback
 - interested in learning a specific python topic, let us know
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/suratpug/spug/master)
